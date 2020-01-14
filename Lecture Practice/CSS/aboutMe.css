@@ -1,0 +1,43 @@
+/* Example with name of colors */
+/* h1 {
+  color: red;
+}
+
+li {
+  color: green;
+}
+
+h4 {
+  color: purple;
+} */
+
+/* Use a color picker to find color  */
+h1 {
+  color: #2aa8a0;
+  border-color: purple;
+  border-width: 5px;
+  border-style: solid;
+  border: 5px solid purple;
+}
+
+/* Syntax using rgb */
+h2 {
+  color: rgb(23, 43, 42);
+}
+
+/* syntax using rgba (with transparency) */
+h3 {
+  color: rgba(235, 73, 0, 0.25);
+}
+
+h4 {
+  background: rgb(42, 234, 122);
+}
+
+body {
+  background: thistle;
+
+  /* background: url(../images/woodGrain.jpg);
+  background-repeat: no no-repeat;
+  background-size: cover; */
+}
